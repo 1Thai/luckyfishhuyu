@@ -10,6 +10,7 @@ Invite friends to start playing! Authentic Hong Kong 锄 land play, free registr
 . 5 seconds countdown card, one finger picking card is super fast, spike opponent is good!
 
 【Contact information】
+
 dailizhenshidediao666@gmail.com
 
 
