@@ -11,5 +11,5 @@ Invite friends to start playing! Authentic Hong Kong 锄 land play, free registr
 dailizhenshidediao666@gmail.com
 
 
-![图片](https://github.com/1Thai/luckyfishhuyu/sct_ip_03.jpg)
-![图片](https://github.com/1Thai/luckyfishhuyu/sct_ip_02.jpg)
+![图片](https://github.com/1Thai/luckyfishhuyu/blob/master/sct_ip_03.jpg)
+![图片](https://github.com/1Thai/luckyfishhuyu/blob/master/sct_ip_02.jpg)
