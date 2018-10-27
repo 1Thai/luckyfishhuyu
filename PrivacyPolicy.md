@@ -1,51 +1,67 @@
-锦鲤互娱 
+#飞机掌游 Privacy Policy
 
-隐私政策Privacy Policy
+Privacy protection
+About your privacy in the palm of your hand
+[锦鲤互娱] Pay attention to your privacy on the Internet. In order to let you know more about the services we collect and manage your personal information and your rights when you use the [锦鲤互娱] services, please provide the following instructions here, please read them carefully.
+If you are unable to agree to our practices, please do not use the services or activities on our website for the time being. We sincerely welcome you to contact our customer service staff for further enquiries or to tell us what you think.
+The scope of application of the mobile palm privacy protection policy
 
-This game places great emphasis on the protection of user privacy. Please read the following statement carefully before using the services provided by this game.
+1. The content of this privacy protection policy:
+The content of this privacy protection policy, including [aircraft rides] how to manage the identification information collected when users use the website service, including how [aircraft rides] manage to share when the business partners cooperate with [aircraft rides] Any identifying information.
 
-In order to provide you with more accurate and targeted services, this game may use the personal information you submit in the following manner. However, this game will treat this information with a high degree of diligence and will not disclose it to third parties without your permission.
-
-Keep the information you provide
-This game collects your personal information when you voluntarily choose a service or provide information, and integrates this information to provide you with better customer service. Please provide your personal information in a timely, detailed and accurate manner at the time of registration, and keep updating the registration information to meet timely, detailed and accurate requirements. All original typed materials will be cited as registration materials. If you have problems due to untrue registration information, you will be responsible for the consequences. Please do not transfer or lend your account number or password to others. If you find that your account has been illegally used by others, you should immediately notify the game. This game is not responsible for the illegal use of accounts and passwords due to hacking or negligence of users.
-
-In the following circumstances, the game will disclose your personal information in accordance with your wishes or the law, and the problems caused by you will be borne by you:
-(1) Obtain your authorization in advance;
-(2) Only by revealing your personal information can you provide the products and services you request;
-(3) in accordance with relevant laws and regulations;
-(4) In accordance with the requirements of the relevant government authorities;
-(5) To protect the legitimate rights and interests of this game.
-(6) You agree to let the third party share the information.
-(7) We found that you have violated the terms of service or usage of this game.
-(8) We need to provide information to companies that provide products or services on our behalf (unless we notify you otherwise, these companies do not have access to your identification information).
-
-Revision of the privacy policy:
-This game often modifies the privacy policy. We will notify users in a timely manner if there are changes to the User Personal Information Policy.
-
-Questions and suggestions:
-If you have additional questions and suggestions, please let us know.
+Second, the scope of application:
+The Privacy Policy does not apply to companies other than [锦鲤互娱] or to people employed or managed by non-aircraft rides.
 
 
+How to collect your information in an airplane cruise
+First, by you:
+When you want to join the [锦鲤互娱] member, use the [锦鲤互娱] product or service, browse the [锦鲤互娱] webpage, participate in promotional activities or awards games, we will fill in some necessary individuals according to your needs. data.
+Second, record retention:
+[锦鲤互娱] also automatically retains the server values ​​on your browser, including the IP Address, the information in the [锦鲤互娱] cookie, and the web page you request to access.
+Aircraft use of personal data
 
-本游戏非常重视对用户隐私的保护，在您使用本游戏提供的服务前，请您仔细阅读如下声明。 
+1. Exposing, renting or reselling:
+(1) [锦鲤互娱] The use of your personal data is only within the scope of the specific purpose of collection and related laws and regulations. Unless otherwise specified by your consent or other statutes, the personal information you log in will never be disclosed, rented or resold to a third party, or your information will be used for other purposes without prior notice to you.
+(2) [锦鲤互娱] Although you have made the above guarantees, you will never disclose your personal information without your consent, but we will not be able to provide them under the following (but not limited to) conditions. Your aforementioned guarantee:
+When you act on this website, you violate the terms of service of [锦鲤互娱] or may damage or hinder the [锦鲤互娱] rights or cause damage to anyone, and we believe that disclosure of your personal information is for identification, contact or take The need for legal action.
+When the judicial unit or other competent authority requires public transportation to require certain personal data to be disclosed, [aircraft slapping] requires legal and formal procedures in the judicial unit, and consideration of the safety of all users of [aircraft rides]. Next, do the necessary cooperation.
+Based on good faith, it is necessary for the law to disclose your personal information.
 
-为了给您提供更准确、更有针对性的服务，本游戏可能会以如下方式，使用您提交的个人信息。但本游戏会以高度的勤勉义务对待这些信息，在未征得您许可的情况下，不会将这些信息对外公开或向第三方提供。 
+Second, the pre-description of the information provided:
+[锦鲤互娱] If you need to share your information with a third party who provides the service or offer in order to provide you with other services or benefits, you will be given a full explanation before the event, so that you have the opportunity to understand and Decide whether to accept this particular service or offer.
+If it is necessary to provide your third party's information for the above reasons, [锦鲤互娱] will also strictly comply with its confidentiality obligations and take the necessary inspection procedures to ensure that it will comply.
+Record and use of advertising identification code
+※ "Aircraft Palm" will record the advertisement identification code (for example: SSAID, MAC address, IMEI ...., etc.)
+※ "锦鲤互娱" uses MAC Address IMEI as a login, but does not reproduce, diverge, tamper with, or distribute player privacy.
+- How to use:
 
-保有您提供的信息 
-本游戏会在您自愿选择服务或提供信息的情况下收集您的个人信息，并将这些信息进行整合，以便向您提供更好的用户服务。请您在注册时及时、详尽及准确的提供个人资料，并不断更新注册资料，符合及时、详尽准确的要求。所有原始键入的资料将引用为注册资料。如果因注册信息不真实而引起的问题，由您自行承担相应的后果。请您不要将您的帐号、密码转让或出借予他人使用。如您发现您的帐号遭他人非法使用，应立即通知本游戏。因黑客行为或用户的保管疏忽导致帐号、密码遭他人非法使用，本游戏不承担责任。 
+These types of ad IDs can only be used to provide advertising and user analytics services, as well as the "Airport Palms" account that you play with (play the account now) to facilitate subsequent user assistance.
+The status of the "Disable ads by interest" or "Disable ad personalization" settings must be verified each time the ad ID is accessed.
 
-在如下情况下，本游戏会遵照您的意愿或法律的规定披露您的个人信息，由此引发的问题将由您个人承担： 
-（1）事先获得您的授权； 
-（2）只有透露你的个人资料，才能提供你所要求的产品和服务； 
-（3）根据有关的法律法规要求； 
-（4）按照相关政府主管部门的要求； 
-（5）为维护本游戏的合法权益。 
-（6）您同意让第三方共享资料。 
-（7）我们发现您违反了本游戏的服务条款或使用规定。 
-（8）我们需要向代表我们提供产品或服务的公司提供资料（除非我们另行通知你，否则这些公司无权使用你的身份识别资料）。 
+- Association with personally identifiable information or other identifiers:
 
-隐私权政策的修订： 
-本游戏时常会对隐私权政策进行修改。如果在使用用户个人信息政策方面有修改时，我们会及时通知用户。 
+Advertising IDs must not be linked to personally identifiable information or to any resiliency device identifier (eg SSAID, MAC address, IMEI, etc.) without the user's explicit consent.
 
-问题与建议： 
-如果您还有其他问题和建议，请告知我们。 
+- Respect the user's choice:
+
+Once reset, the new ad ID must not be linked to the previous ad ID without the user's explicit consent or to the material derived from the previous ad ID. In addition, the ad delivery method must match the user’s "Disable ads by interest" or "Disable ad personalization" settings. If the user enables the above settings, they should not use the ad ID to create the profile needed to serve the ad, or to serve a personalized ad to the user. Allowed features include affiliate ads, frequency capping, conversion tracking, reporting and security, and fraud detection.
+
+Modification and deletion of personal data
+When you register as a member in [锦鲤互娱], you can use your account number and password to change any information you originally provided (address, phone, email, etc...). However, the information you can modify does not include your previous service content records on this website. In addition, when your account is suspended, the activity records of the services you have participated in will not disappear with the suspension of the account.
+Use of linked web pages
+When you use the [锦鲤互娱] services, you may need to use the web hyperlink.
+For example, when you use a service provided by a third party, or read a piece of information provided by [锦鲤互娱], and the information includes the link function of other web pages, [锦鲤互娱] is sorry We can't continue to provide privacy protection after you link to other websites, but we sincerely remind you that when you leave [Airport] and enter other websites, please remember to read the privacy terms provided by the website before deciding you. Continue to accept the services of this website.
+
+
+About the use of cookies
+"Cookies" is a small recording software. When you visit a website with a "Cookies" device, the server of the website will automatically send "Cookies" to your computer.
+The function of "Cookies" is to help the website distinguish the identity of the visitor, record and store the visitor's usage habits or choices, etc., and retrieve the IP address of the visitor.
+Generally, the membership-based website will use "Cookies" to store the user's ID name and password, personal web pages, and record the web pages visited by the visitors, so that each member can establish an online visit or shopping. History list. However, the website cannot use "cookies" to modify the computer content of any visitors.
+I would like to remind you that most browsers will automatically accept the storage of "Cookies". However, if you do not want to leave traces on the websites you have visited, most of the existing browser designs allow you to change the "Cookies" function.
+If you close the "Cookies" function of your browser, you can still read the contents of the [锦鲤互娱] webpage; but if you are a member, the use of cookies will add a lot of convenience to you when you visit [锦鲤互娱]; In other words, if you turn off the "Cookies" feature, we will not be able to recognize you every time you visit [锦鲤互娱], and you may lose the opportunity to provide more intimate services.
+
+
+Privacy protection measures
+When [锦鲤互娱] provides the above protection for your privacy, you should also remind you to keep your password and any personal information, and do not provide them, especially passwords, to anyone. Be sure to remember to log out after you complete the transaction, use personal services and other procedures. If you share your computer with a public computer or use a public computer, don't forget to close your browser window to prevent others from reading your profile or mail.
+Amendment to the privacy protection policy of the aircraft
+[锦鲤互娱] The privacy protection policy will be amended at any time in response to demand to implement the protection of your privacy. The revised terms will be posted on the [锦鲤互娱] website and will remind you to click to read.
