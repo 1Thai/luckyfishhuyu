@@ -1,4 +1,4 @@
-#飞机掌游 Privacy Policy
+#锦鲤互娱 Privacy Policy
 
 Privacy protection
 About your privacy in the palm of your hand
