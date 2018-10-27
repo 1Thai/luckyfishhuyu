@@ -3,7 +3,6 @@
 Technical Support
 
 【Game features】 
-. Most people are fond of playing "Hong Kong-style poker". 
 . Original God System: Create your exclusive game character! 
 . 5 seconds countdown card, one finger picking card is super fast, spike opponent is good!
 
@@ -21,5 +20,5 @@ Your feedback can help us improve our service and is the driving force behind ou
 
 適度遊戲益腦 沉迷遊戲傷身 合理安排時間 享受健康生活
 
-![图片](https://github.com/1Thai/luckyfishhuyu/blob/master/sct_ip_03.jpg)	![图片](https://github.com/1Thai/luckyfishhuyu/blob/master/sct_ip_02.jpg)
+![图片](https://github.com/1Thai/luckyfishhuyu/blob/master/jlhy_ipad_01.jpg)	
 	
